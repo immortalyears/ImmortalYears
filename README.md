@@ -1,7 +1,7 @@
 # $YEARS Token (Immortal)
 
 **Fair-launch memecoin on Base**  
-100 % supply in LP • Locked 1 year via PinkLock  
+100 % supply in LP • Locked +2 year via PinkLock  
 No team tokens • No pre-mine • No vesting  
 
 ## Tokenomics

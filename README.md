@@ -6,7 +6,7 @@ No team tokens • No pre-mine • No vesting
 
 ## Tokenomics
 - **Total Supply:** 1,000,000 $YEARS  
-- **Initial Supply:** 1,000,000 (100 % added to Uniswap V2 LP)  
+- **Initial Supply:** 1,000,000 (100 % added to PancakeSwap V2 LP)  
 - **Sell Fee:** 0–2 % (dynamic)  
 - **Progressive Burn:**  
 - **No buy fee**  
